@@ -41,7 +41,7 @@ const portfolioProjects = [
       { title: "Learnt to create animations with tailwindcss" },
       { title: "Improve quality with SSR" },
     ],
-    link: "https://mynextjs-portfolio-theta.vercel.app/",
+    link: "https://mynextjs-portfolio-git-testimonialsanimations-mwaraems-projects.vercel.app/",
     image: aiStartupLandingPage,
   },
 ];
